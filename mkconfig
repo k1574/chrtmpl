@@ -1,0 +1,13 @@
+CC = tcc
+LD = $CC
+
+NAME = chrtmpl
+
+ROOT = $HOME/local
+BIN = $ROOT/bin
+SHR = $ROOT/shr
+MAN = $SHARE/man/
+
+CPPFLAGS =
+CFLAGS = $CPPFLAGS
+LDFLAGS =
